@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "201504090_CINE/1.0.0": {
+        "runtime": {
+          "201504090_CINE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "201504090_CINE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
